@@ -6,5 +6,5 @@
     "default": 250,
     "max": 250
   },
-  "mongodb": "mongodb://indy:indy@localhost:27017/ufos?authSource=admin"
+  "mongodb": "mongodb://sekret:sekret2@localhost:27017/ufos?authSource=admin"
 }
