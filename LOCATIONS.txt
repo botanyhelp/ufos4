@@ -1,0 +1,1703 @@
+
+<option>Aberdeen (UK/Scotland)</option>
+<option>Abilene, KS</option>
+<option>Adair County, IA</option>
+<option>Ada, MI</option>
+<option>Adamsville, PA</option>
+<option>Addison, TX</option>
+<option>Adelaide (Australia)</option>
+<option>Afton, VA</option>
+<option>AHMECGARH (India)</option>
+<option>Alameda Naval Air Station/Marine Corp Air Wing Bubble, CA</option>
+<option>Alamo Lake, AZ</option>
+<option>Albany, CA</option>
+<option>Albany, NY</option>
+<option>Albany, OR</option>
+<option>Alberta (Canada), AB</option>
+<option>Albertson, NY</option>
+<option>Albion, IL</option>
+<option>Albuquerque, NM</option>
+<option>Alden, MN</option>
+<option>Aldergrove (Canada), BC</option>
+<option>Alexandria, LA</option>
+<option>Alfalfa, OR</option>
+<option>Alice Springs  (NT, Australia)</option>
+<option>Allahbad (India), .</option>
+<option>Allentown, PA</option>
+<option>Alma, KS</option>
+<option>Alpena, MI</option>
+<option>Alpheretta, GA</option>
+<option>Alturas, CA</option>
+<option>American Canyon, CA</option>
+<option>Amity, OR</option>
+<option>Ammon, ID</option>
+<option>Amsterdam, NY</option>
+<option>Anacortes, WA</option>
+<option>Anaheim, CA</option>
+<option>Anderson, IN</option>
+<option>Annapolis, MD</option>
+<option>Ann Arbor, MI</option>
+<option>Antioch, CA</option>
+<option>Apache Junction, AZ</option>
+<option>Applegate, CA</option>
+<option>Appleton, WI</option>
+<option>Apple Valley, CA</option>
+<option>Arcadia, CA</option>
+<option>Arcadia Shores, WA</option>
+<option>Arizona (city unknown_, AZ</option>
+<option>Arizona (In-flight), AZ</option>
+<option>Arizona (rural), AZ</option>
+<option>Arlington, IL</option>
+<option>Arlington, TX</option>
+<option>Arlington, WA</option>
+<option>Arundel (UK/England)</option>
+<option>Athens (Greece), .</option>
+<option>Athrugiriya (Sri Lanka)</option>
+<option>Atkins (near), TX</option>
+<option>Atkins, TX</option>
+<option>Atlanta, GA</option>
+<option>Atlantic Ocean (Bermuda)</option>
+<option>Atlantic Ocean (USCG Cutter &quot;Spencer&quot;)</option>
+<option>Atolicita Hills, CA</option>
+<option>Auburn, CA</option>
+<option>Auburn, MA</option>
+<option>Auburn, ME</option>
+<option>Auburn, WA</option>
+<option>Auckland (New Zealand)</option>
+<option>Augusta, ME</option>
+<option>Aurora, CO</option>
+<option>Aurora, IL</option>
+<option>Aurora/Wheaton/Warrenville areas, IL</option>
+<option>Austintown, OH</option>
+<option>Austin, TX</option>
+<option>Avondale, AZ</option>
+<option>Bakersfield, CA</option>
+<option>Baku (Azerbaijan)</option>
+<option>Baltimore, MD</option>
+<option>Bandy, NY</option>
+<option>Bangalore (India)</option>
+<option>Bangor, ME</option>
+<option>Barcelona (Spain)</option>
+<option>Barksdale AFB (Shreveport), LA</option>
+<option>Barnaul (Russia)</option>
+<option>Barnegat, NE</option>
+<option>Barnoldswick (UK/England)</option>
+<option>Barre, VT</option>
+<option>Barrington, IL</option>
+<option>Barstow, CA</option>
+<option>Bartlett, TN</option>
+<option>Basking Ridge, NJ</option>
+<option>Bastrop, TX</option>
+<option>Batesburg, SC</option>
+<option>Batesville, TX</option>
+<option>Bath, IL</option>
+<option>Bath (UK/England)</option>
+<option>Baton Rouge, LA</option>
+<option>Battle Creek, MI</option>
+<option>Beatty (near), OR</option>
+<option>Beaver Creek, OR</option>
+<option>Beaver, PA</option>
+<option>Beaverton, OR</option>
+<option>Bedford, VA</option>
+<option>Bel Air, MD</option>
+<option>Belgium</option>
+<option>Bell, CA</option>
+<option>Belle Fourche, SD</option>
+<option>Belleville, IL</option>
+<option>Belleville, NJ</option>
+<option>Belleville, WI</option>
+<option>Bellevue, WA</option>
+<option>Bellflower, CA</option>
+<option>Bellingham, WA</option>
+<option>Belmont, CA</option>
+<option>Bend, OR</option>
+<option>Berryville, VA</option>
+<option>Berthid, CO</option>
+<option>Bessemer, AL</option>
+<option>Bethesda, MD</option>
+<option>Beverly Beach, FL</option>
+<option>Biddeford, ME</option>
+<option>Big Bend Park, TX</option>
+<option>Big Flats, NY</option>
+<option>Big Pine, CA</option>
+<option>Big Sandy, MT</option>
+<option>Big Sur, CA</option>
+<option>Billerica, MA</option>
+<option>Billings, MT</option>
+<option>Binghamton, NY</option>
+<option>Birmingham, AL</option>
+<option>Birmingham (UK/England)</option>
+<option>Bishop, CA</option>
+<option>Bishop (south of, Hwy 395), CA</option>
+<option>Bismarck, ND</option>
+<option>Black Hills, SD</option>
+<option>Blackpool (UK/England)</option>
+<option>Black Shear, GA</option>
+<option>Bloomington, IL</option>
+<option>Blossburg, PA</option>
+<option>Blountville, TN</option>
+<option>Boerne, TX</option>
+<option>Boiling Springs (outside of, traveling on highway), PA</option>
+<option>Boise, ID</option>
+<option>Bokeelia, FL</option>
+<option>Bolivia, NC</option>
+<option>Bolton (UK/England)</option>
+<option>Bombay (India), .</option>
+<option>Bonanza, OR</option>
+<option>Boring, OR</option>
+<option>Bosque, NM</option>
+<option>Boston, MA</option>
+<option>Bothell, WA</option>
+<option>Boulder, CO</option>
+<option>Boulder Creek, CA</option>
+<option>Bouse, AZ</option>
+<option>Bowie, MD</option>
+<option>Bowling Green, KY</option>
+<option>Boyertown, PA</option>
+<option>Boyne City, MI</option>
+<option>Bozeman, MT</option>
+<option>Bradenton, FL</option>
+<option>Bradford (UK/England)</option>
+<option>Brampton (near Toronto) (Canada), ON</option>
+<option>Brandon, FL</option>
+<option>Branford, CT</option>
+<option>Brawley, CA</option>
+<option>Brazil</option>
+<option>Breckenridge, MO</option>
+<option>Breezewood, PA</option>
+<option>Bremerton, WA</option>
+<option>Brentwood (Long Island), NY</option>
+<option>Brentwood, TN</option>
+<option>Brigham City/Ogden (between), UT</option>
+<option>Brighton (UK/England)</option>
+<option>Brisbane (near) (Queensland, Australia)</option>
+<option>Brisbane (QLD, Australia)</option>
+<option>Bristol, TN</option>
+<option>Brockton, MA</option>
+<option>Brooklyn, AR</option>
+<option>Brooklyn, OH</option>
+<option>Brooksville, FL</option>
+<option>Brownell, KS</option>
+<option>Brunswick County, ND</option>
+<option>Bry sur Marne  (near Paris) (France), .</option>
+<option>Buckeye (1-10 milepost 107 heading eastbound, AZ</option>
+<option>Buena Park, CA</option>
+<option>Buenos Aires (Argentina)</option>
+<option>Burbank, CA</option>
+<option>Burbank, CO</option>
+<option>Burien, WA</option>
+<option>Burley, WA</option>
+<option>Burlingame, KS</option>
+<option>Burlington, NJ</option>
+<option>Burnaby (Canada), BC</option>
+<option>Burnt Hills/ Ballston lake, NY</option>
+<option>Burr Oak, KS</option>
+<option>Butler, PA</option>
+<option>Butte, MT</option>
+<option>Byron Center, MI</option>
+<option>Byron, MN</option>
+<option>Cactus Flats, CA</option>
+<option>Cadotte Pass, MT</option>
+<option>California (southern), CA</option>
+<option>Camanche, TX</option>
+<option>Cambodia</option>
+<option>Cameron, MO</option>
+<option>Cameron Park, CA</option>
+<option>Cam Highway (?), HI</option>
+<option>Campbell, CA</option>
+<option>Campbell River (Canada), BC</option>
+<option>Canada, AB</option>
+<option>Canada, BC</option>
+<option>Canada, ON</option>
+<option>Canberra (Australia)</option>
+<option>Canby, MN</option>
+<option>Canby, OR</option>
+<option>Cancun (Mexico)</option>
+<option>Candle Lake (Canada), SK</option>
+<option>Cannis City, FL</option>
+<option>Cannon AFB/Clovis, NM</option>
+<option>Cannon Beach, OR</option>
+<option>Cannon, NH</option>
+<option>Canyonville, OR</option>
+<option>Capac, MI</option>
+<option>Cape Breton (Canada), NS</option>
+<option>Caracas</option>
+<option>Carbondale, IL</option>
+<option>Cardiff (UK/Wales)</option>
+<option>Caribbean Sea (USS W.S. Sims)</option>
+<option>Carlyss, LA</option>
+<option>Carmel, CA</option>
+<option>Carmichael, CA</option>
+<option>Carrollton, GA</option>
+<option>Carrollton, TX</option>
+<option>Carson City, NV</option>
+<option>Carteret, NJ</option>
+<option>Casa Grande, AZ</option>
+<option>Casalabate (Italy)</option>
+<option>Cascade, ID</option>
+<option>Cascade Mtns., WA</option>
+<option>Cashel (Republic of Ireland)</option>
+<option>Cashmere, WA</option>
+<option>Casper, WY</option>
+<option>Casselberry, FL</option>
+<option>Castle Rock, CO</option>
+<option>Cedar Springs, MI</option>
+<option>Central Florida, FL</option>
+<option>Central Lake, MI</option>
+<option>Cerritos, CA</option>
+<option>Champaign, IL</option>
+<option>Chandler, AZ</option>
+<option>Channelview, TX</option>
+<option>Chantilly, VA</option>
+<option>Chappaqua, NY</option>
+<option>Charleston, IL</option>
+<option>Charleston, OR</option>
+<option>Charleston, SC</option>
+<option>Chattanooga, TN</option>
+<option>Cheboygan, MI</option>
+<option>Chelan, WA</option>
+<option>Chelmsford (UK/England)</option>
+<option>Cheney, WA</option>
+<option>Cherry Hill, NJ</option>
+<option>Chesapeake, VA</option>
+<option>Chester, AR</option>
+<option>Chesterfield, VA</option>
+<option>Cheyenne, WY</option>
+<option>Chicago, IL</option>
+<option>Chico, CA</option>
+<option>Chihuahua (Mexico)</option>
+<option>Childs (near the Verde Hot Springs), AZ</option>
+<option>Chimacum, WA</option>
+<option>Chinley, AZ</option>
+<option>Chinook, WA</option>
+<option>Christmas Valley, OR</option>
+<option>Cicero, IN</option>
+<option>Cincinnati, OH</option>
+<option>Clackamas, OR</option>
+<option>Clairton, PA</option>
+<option>Claremont, CA</option>
+<option>Clark, MO</option>
+<option>Clarksburg, WV</option>
+<option>Clarksville, VA</option>
+<option>Clatonia, NE</option>
+<option>Claude, TX</option>
+<option>Clayton, NM</option>
+<option>Clearfield/Curwensville, PA</option>
+<option>Clear Lake, IN</option>
+<option>Clearwater, FL</option>
+<option>Cleburne, TX</option>
+<option>Cle Elum, WA</option>
+<option>Clermont, FL</option>
+<option>Cleveland ARTCC, OH</option>
+<option>Cleveland, GA</option>
+<option>Cleveland, OH</option>
+<option>Cleveland, OK</option>
+<option>Clifford, PA</option>
+<option>Clinton, AR</option>
+<option>Clinton, CT</option>
+<option>Clinton, MO</option>
+<option>Clive, IA</option>
+<option>Close to Wellton, AZ</option>
+<option>Clovis, CA</option>
+<option>Cochabamba (Bolivia)</option>
+<option>Cochin (India)</option>
+<option>Cocoa Beach, FL</option>
+<option>Coeur d&apos;Alene, ID</option>
+<option>Coeur D&apos;Alene, ID</option>
+<option>Colchester, VT</option>
+<option>College Park, MD</option>
+<option>College Station, TX</option>
+<option>Collinsville, IL</option>
+<option>Cologne (Germany)</option>
+<option>Coloma, WI</option>
+<option>Colorado, CO</option>
+<option>Colorado Springs, CO</option>
+<option>Colorado Springs (NORAD), CO</option>
+<option>Colordo Springs, CO</option>
+<option>Colton, CA</option>
+<option>Columbia, KY</option>
+<option>Columbia, MO</option>
+<option>Columbia, SC</option>
+<option>Columbia, Wrightsville, PA</option>
+<option>Columbus (20 miles north of, RT 71 southbound), OH</option>
+<option>Columbus (Canada), NB</option>
+<option>Columbus (north of, at the 160mile post), OH</option>
+<option>Columbus, OH</option>
+<option>Colville Reservation, WA</option>
+<option>Comanche County, OK</option>
+<option>Comox Bay (Canada), BC</option>
+<option>Concordia, KS</option>
+<option>Connecticut (unspecified), CT</option>
+<option>Contocook, NH</option>
+<option>Coolidge, AZ</option>
+<option>Coon Valley, WI</option>
+<option>Coos Bay, OR</option>
+<option>Copley, PA</option>
+<option>Coquille, OR</option>
+<option>Coquina Key, FL</option>
+<option>Coral Gables, FL</option>
+<option>Coral Springs, FL</option>
+<option>Cordova, AK</option>
+<option>Core, WV</option>
+<option>Coronado, CA</option>
+<option>Corpus Christi, TX</option>
+<option>Corry, PA</option>
+<option>Cortero, AZ</option>
+<option>Corvallis (10 miles south of), OR</option>
+<option>Corvallis, MT</option>
+<option>Corvallis, OR</option>
+<option>Costa Mesa, CA</option>
+<option>Cottonwood, AZ</option>
+<option>Cottonwood, CA</option>
+<option>Council Bluffs, IA</option>
+<option>Coventry (UK/England)</option>
+<option>Cozumel (Mexico), .</option>
+<option>Crafton, PA</option>
+<option>Craig, CO</option>
+<option>Crescent City, CA</option>
+<option>Crescent Lake, WA</option>
+<option>Crimea (Ukraine))</option>
+<option>Croatia</option>
+<option>Cromwell, CT</option>
+<option>Crown Point, IN</option>
+<option>Crystal Lake, IL</option>
+<option>Cuchara, CO</option>
+<option>Cullman, AL</option>
+<option>Culloden, WV</option>
+<option>Culpeper, VA</option>
+<option>Culver City, CA</option>
+<option>Cumberland (Canada), BC</option>
+<option>Dade County, FL</option>
+<option>Dadeville, MO</option>
+<option>Dallas/Duncanville area, TX</option>
+<option>Dallas, TX</option>
+<option>Daly City, CA</option>
+<option>Danville, IL</option>
+<option>Davenport, IA</option>
+<option>Dayton, OH</option>
+<option>Dayton, OR</option>
+<option>Dayton, WA</option>
+<option>Dayton (WPAFB), OH</option>
+<option>Deer Lodge, MT</option>
+<option>Delafield, WI</option>
+<option>Dell City, TX</option>
+<option>Dell Rapids, SD</option>
+<option>Del Valle, TX</option>
+<option>Deming, NM</option>
+<option>Denver, CO</option>
+<option>Denver (I-25, southbound), CO</option>
+<option>Depere, WI</option>
+<option>Desert, AR</option>
+<option>Des Moines, WA</option>
+<option>Desolation Wilderness, CA</option>
+<option>Des Plaines, IL</option>
+<option>Detroit (metro area), MI</option>
+<option>Detroit, MI</option>
+<option>DFW Airport (north of) (Dallas), TX</option>
+<option>Dinosaur, CO</option>
+<option>Douglas, AZ</option>
+<option>Douglas, GA</option>
+<option>Dousman, WI</option>
+<option>Dowling, MI</option>
+<option>Downey, CA</option>
+<option>Downey (North American Aviation), CA</option>
+<option>Doylestown, PA</option>
+<option>Duarte, CA</option>
+<option>Dublin (Republic of Ireland)</option>
+<option>Duluth, MN</option>
+<option>Dundas Island (south of) (Canada), BC</option>
+<option>Dunedin (New Zealand)</option>
+<option>Durham, FL</option>
+<option>Durham (UK/England)</option>
+<option>Eagan, MN</option>
+<option>Eagle Creek, OR</option>
+<option>Eagle River, AK</option>
+<option>Eagle River, WI</option>
+<option>Earlville, PA</option>
+<option>East Aurora, IL</option>
+<option>Eastgate, WA</option>
+<option>East Haven, CT</option>
+<option>Eastland, TX</option>
+<option>Eastport, MI</option>
+<option>Eaton Rapids, MI</option>
+<option>Edgemoore, SC</option>
+<option>Edgewater, FL</option>
+<option>Edinboro, PA</option>
+<option>Edinburgh, IN</option>
+<option>Edinburgh (over) (UK/Scotland)</option>
+<option>Edmonds, WA</option>
+<option>Edroy, TX</option>
+<option>Edwards AFB, CA</option>
+<option>Edwards AFB (vicinity), CA</option>
+<option>Egg Harbor, WY</option>
+<option>E. Greenville, PA</option>
+<option>Eilmsport, PA</option>
+<option>El Cajon, CA</option>
+<option>El Centro, CA</option>
+<option>El Cerrito, CA</option>
+<option>Electric City, WA</option>
+<option>Elgin (UK/Scotland)</option>
+<option>Elisabethtown, KY</option>
+<option>Elizabethton, TN</option>
+<option>Elk, AK</option>
+<option>Elk Grove, CA</option>
+<option>Elkins, WV</option>
+<option>Elk River, MN</option>
+<option>Ellensburg/Thorp, WA</option>
+<option>Ellisville, MO</option>
+<option>Elma, WA</option>
+<option>El Paso, TX</option>
+<option>Elyria, OH</option>
+<option>Emeryville, CA</option>
+<option>Emmen (Netherlands)</option>
+<option>Endicott, NY</option>
+<option>England (latitude 55 north) (UK/England)</option>
+<option>Enterprise, MS</option>
+<option>Escazu (Costa Rica)</option>
+<option>Esl&ouml;, Scania (Sweden)</option>
+<option>Eugene, OR</option>
+<option>Eureka, CA</option>
+<option>Evansville, IN</option>
+<option>Evart, MI</option>
+<option>Everett, WA</option>
+<option>Everton, MO</option>
+<option>Evington, VA</option>
+<option>Exeter (UK/England)</option>
+<option>Fagle, ID</option>
+<option>Fairbanks, AK</option>
+<option>Fairbanks, Trans Alaskan Pipeline haul road 250 mi N of, AK</option>
+<option>Fairdale, WV</option>
+<option>Fairfield, CA</option>
+<option>Fairfield, IA</option>
+<option>Fairmont, WV</option>
+<option>Fair Oak (Eastleigh) (UK/England)</option>
+<option>Fair Oaks (landings), IL</option>
+<option>Fair Oaks, NY</option>
+<option>Fairport, NY</option>
+<option>Falcon, TX</option>
+<option>Fallon (Chalk Mountain), NV</option>
+<option>Fall River, MA</option>
+<option>Fargo, ND</option>
+<option>Farmer City, IL</option>
+<option>Farmingdale, NY</option>
+<option>Farmington, MN</option>
+<option>Farmington, UT</option>
+<option>Farmville, VA</option>
+<option>Fayetteville, AR</option>
+<option>Federal Way, WA</option>
+<option>Fenton, MI</option>
+<option>Fernley, NV</option>
+<option>Fes (Morocco)</option>
+<option>Fife, WA</option>
+<option>Fiji Islands (S. Pacific Ocean)</option>
+<option>Fingal (North Dublin) (Republic of Ireland)</option>
+<option>Fircrest, WA</option>
+<option>Fittstown (on a farm), OK</option>
+<option>Flagstaff, AZ</option>
+<option>Flagstaff (I17 south of), AZ</option>
+<option>Flint, MI</option>
+<option>Florala (??), AL</option>
+<option>Florence, AL</option>
+<option>Florence, OR</option>
+<option>Florida Panhandle (100-200 mi. E of), FL</option>
+<option>Flowood, MS</option>
+<option>Flushing, MI</option>
+<option>Folsom, CA</option>
+<option>Folsom, NJ</option>
+<option>Fontana, CA</option>
+<option>Forest Lake, MN</option>
+<option>Fort Benning, GA</option>
+<option>Fort Collins, CO</option>
+<option>Fort Knox, KY</option>
+<option>Fort Lauderdale, FL</option>
+<option>Fort Lewis, WA</option>
+<option>Fort Myers Beach, FL</option>
+<option>Fort Myers, Fl</option>
+<option>Fort Myers, FL</option>
+<option>Fort Smith, AR</option>
+<option>Fort Walton Beach, Fl</option>
+<option>Fort Wayne, IN</option>
+<option>Fox Chapel, PA</option>
+<option>Framingham, MA</option>
+<option>France</option>
+<option>Francis E Warren AFB, WY</option>
+<option>Francois Lake (Canada), BC</option>
+<option>Frankfort, IL</option>
+<option>Fraser, MI</option>
+<option>Freeport, FL</option>
+<option>French Camp, CA</option>
+<option>Fresno, CA</option>
+<option>Frostburg, MD</option>
+<option>Ft. Bragg, CA</option>
+<option>Ft. Collins, CO</option>
+<option>Ft. Dick, CA</option>
+<option>Ft. Morgan, CO</option>
+<option>Ft. Myers, FL</option>
+<option>Fulton, MI</option>
+<option>Gainesville, FL</option>
+<option>Gaithersburg, MD</option>
+<option>Galconda, IL</option>
+<option>Gallup/Albuquerque (between), NM</option>
+<option>Garberville, CA</option>
+<option>Gardena, CA</option>
+<option>Gardendale, LA</option>
+<option>Gardiner, ME</option>
+<option>Garibaldi, OR</option>
+<option>Garland, TX</option>
+<option>Gaston, OR</option>
+<option>Gatesville, TX</option>
+<option>Gaviota, CA</option>
+<option>Geneva, NY</option>
+<option>Georgia (Meriwether County), GA</option>
+<option>Gerlach, NV</option>
+<option>Ghaziabad (India)</option>
+<option>Gibraltar (Mediterranean Sea)</option>
+<option>Gifford National Forest, WA</option>
+<option>Gig Harbor, WA</option>
+<option>Gilbert, AZ</option>
+<option>Gilbertsville, PA</option>
+<option>Gilbert, WV</option>
+<option>Gilman, VT</option>
+<option>Glade Spring, VA</option>
+<option>Glasgow (near) (UK/Scotland)</option>
+<option>Glendale, AZ</option>
+<option>Glendora, CA</option>
+<option>Glendo, WY</option>
+<option>Glen Ellen, CA</option>
+<option>Glen, NY</option>
+<option>Glenvil, NE</option>
+<option>Glen Wilton, VA</option>
+<option>Godfrey, IL</option>
+<option>Gold River, CA</option>
+<option>Goldsboro, NC</option>
+<option>Goleta, CA</option>
+<option>Golqnovci (Bulgaria)</option>
+<option>Gonsaga Bay (Mexico)</option>
+<option>Gorham, ME</option>
+<option>Gorman VOR (inflight), CA</option>
+<option>Graham County, NC</option>
+<option>Grain Valley, MO</option>
+<option>Grand Blanc, MI</option>
+<option>Grand Junction, CO</option>
+<option>Grand Rapids, MI</option>
+<option>Grandview, MO</option>
+<option>Grangeville, ID</option>
+<option>Granite/East St. Louis, IL</option>
+<option>Granite Falls, WA</option>
+<option>Granite, WA</option>
+<option>Grantham (UK/England)</option>
+<option>Grants Pass, OR</option>
+<option>Granville, NY</option>
+<option>Grape Creek, IL</option>
+<option>Grass Lake, MI</option>
+<option>Great Barrier Reef (at sea) (Australia)</option>
+<option>Great Falls, MT</option>
+<option>Green Co., TN</option>
+<option>Greenfield, MA</option>
+<option>Greenfield (suburb of Milwaukee), WI</option>
+<option>Green Lake, WI</option>
+<option>Greenlaw (UK/England)</option>
+<option>Greensburg, PA</option>
+<option>Greensville, NC</option>
+<option>Greenville, NC</option>
+<option>Greenwater (4 Miles east of), WA</option>
+<option>Greenwich, CT</option>
+<option>Greenwood, CA</option>
+<option>Greers Ferry, GA</option>
+<option>Gresham, OR</option>
+<option>Griffin, GA</option>
+<option>Grifton, NC</option>
+<option>Grimsby, VA</option>
+<option>Grove City, PA</option>
+<option>Grover Beach, CA</option>
+<option>Guadelupe, AZ</option>
+<option>Guayaquil (Ecuador)</option>
+<option>Guemes Island, WA</option>
+<option>Guernsey (UK/England)</option>
+<option>Gulfport, MS</option>
+<option>Gurnee, IL</option>
+<option>Gustavus, AK</option>
+<option>Hage, FL</option>
+<option>Haltbro, PA</option>
+<option>Hampton, AR</option>
+<option>Hampton Beach, NH</option>
+<option>Hampton, TN</option>
+<option>Hampton, VA</option>
+<option>Hancock, MN</option>
+<option>Hansville, WA</option>
+<option>Harbor City, CA</option>
+<option>Harmony, ME</option>
+<option>Harrisburg area, PA</option>
+<option>Harrisburg (near), PA</option>
+<option>Harrisburg, PA</option>
+<option>Harris County, TX</option>
+<option>Harrisonburg, LA</option>
+<option>Harrisonburg, VA</option>
+<option>Harrodsburg, KY</option>
+<option>Harrogate (UK/England)</option>
+<option>Hartford, CT</option>
+<option>Hartford, SD</option>
+<option>Hartsburg, MO</option>
+<option>Haslett, MI</option>
+<option>Hawthorne, NV</option>
+<option>Hayward, CA</option>
+<option>Haywards Heath (UK/England)</option>
+<option>Hayward, WI</option>
+<option>Hayworth, IL</option>
+<option>Hazel Dell, WA</option>
+<option>Helena, MT</option>
+<option>Hemet, CA</option>
+<option>Hempstead, NY</option>
+<option>Henderson, NV</option>
+<option>Henderson, TX</option>
+<option>Hendersonville (over Old Hickory Lake), TN</option>
+<option>Henley-in-Arden (UK/England)</option>
+<option>Hephzibah, GA</option>
+<option>Hialeah, FL</option>
+<option>Hickory Corners, MI</option>
+<option>Highlands/Sandy Hook area, NJ</option>
+<option>Highpoint, NC</option>
+<option>Highway 15, NV</option>
+<option>Highway 37, CA</option>
+<option>Hilliard, OH</option>
+<option>Hillsboro, OR</option>
+<option>Hillsborough, NJ</option>
+<option>Hilltop, NJ</option>
+<option>Hoh River, WA</option>
+<option>Holden Beach, NC</option>
+<option>Holden, ME</option>
+<option>Hollister, CA</option>
+<option>Holliston, MA</option>
+<option>Holly, WA</option>
+<option>Hollywood, CA</option>
+<option>Hollywood, FL</option>
+<option>Holton, KS</option>
+<option>Holtwood, PA</option>
+<option>Homer, PA</option>
+<option>Honolulu, HI</option>
+<option>Hoodsport, WA</option>
+<option>Hooksett, NH</option>
+<option>Horry County, SC</option>
+<option>Horton, MI</option>
+<option>Houston area (Canada), BC</option>
+<option>Houston, TX</option>
+<option>Howard/Artesian, SD</option>
+<option>Howell, MI</option>
+<option>Howell, NJ</option>
+<option>Hsin Hse Town (Taiwan)</option>
+<option>Hull (UK/England)</option>
+<option>Humble, TX</option>
+<option>Humbolt, CA</option>
+<option>Huntington Beach, CA</option>
+<option>Huntington, KY</option>
+<option>Huntington, NY</option>
+<option>Huntington, WV</option>
+<option>Huntsville, AL</option>
+<option>Husten, TX</option>
+<option>Hwy. 18, WA</option>
+<option>I-10, Marker 174, NM</option>
+<option>Idaho Falls, ID</option>
+<option>Independence, VA</option>
+<option>Index, WA</option>
+<option>Indiana (northern; outside sawmill), IN</option>
+<option>Indianapolis, IN</option>
+<option>Indian Falls, NY</option>
+<option>Indian Heights, IN</option>
+<option>Indian Springs, NV</option>
+<option>Inglewood, CA</option>
+<option>Inkerman/Tracadie (Canada), NB</option>
+<option>Inspiration Pt., CA</option>
+<option>International Space Station</option>
+<option>Interstate 40, TX</option>
+<option>Interstate 5 (approx mile marker 63), WA</option>
+<option>Inverness, FL</option>
+<option>Inyo Co., CA</option>
+<option>Iowa City, IA</option>
+<option>Ipswich (Suffolk) (UK/England)</option>
+<option>Iran</option>
+<option>Iron Mountain, OR</option>
+<option>Iron River, MI</option>
+<option>Ironton, OH</option>
+<option>Irvine, CA</option>
+<option>Irving, TX</option>
+<option>Issaquah, WA</option>
+<option>Ithaca, NY</option>
+<option>Jackson, MI</option>
+<option>Jackson, OH</option>
+<option>Jackson, TN</option>
+<option>Jacksonville, FL</option>
+<option>Jacksonville/Ft. Pierce, FL</option>
+<option>Jacksonville, OR</option>
+<option>Jacksonville to Ft. Pierce, IL</option>
+<option>Jafir (Jordan)</option>
+<option>Jamestown, CA</option>
+<option>Jasper, MO</option>
+<option>Jay, FL</option>
+<option>Jeannette, PA</option>
+<option>Jefferson City, MO</option>
+<option>Jefferson County, WI</option>
+<option>Jersey (UK/England??)</option>
+<option>Jewell County, KS</option>
+<option>Jewell Valley, CA</option>
+<option>Johnson City, TN</option>
+<option>Jolliet, IL</option>
+<option>Joplin, MO</option>
+<option>Joshua Tree Nat&apos;l Park, CA</option>
+<option>Joyce, WA</option>
+<option>Juneau, AK</option>
+<option>Kahla (Germany)</option>
+<option>Kalamazoo, MI</option>
+<option>Kalispell, MT</option>
+<option>Kamloops (Canada), BC</option>
+<option>Kamuela, HI</option>
+<option>Kaneohe, HI</option>
+<option>Kansas City/Emporia (countryside between), KS</option>
+<option>Kansas City, KS</option>
+<option>Kansas City, MO</option>
+<option>Katy, TX</option>
+<option>Kaunas (Lithuania)</option>
+<option>Kavala (50 km. SE of) (Greece)</option>
+<option>Kearney, MO</option>
+<option>Keesler AFB, MS</option>
+<option>Keller, TX</option>
+<option>Kelseyville, CA</option>
+<option>Kelso, WA</option>
+<option>Kennewick, WA</option>
+<option>Kenora (Canada), ON</option>
+<option>Kenora (sw of, 16 mi. on Lake of the Woods) (Canada), ON</option>
+<option>Kent, WA</option>
+<option>Keokuk, IA</option>
+<option>Kerkuk (near) (Northern Iraq)</option>
+<option>Kilmarnock (UK/England)</option>
+<option>Kingston, MA</option>
+<option>Kingsville, OH</option>
+<option>Kirkland, WA</option>
+<option>Kista (Sweden)</option>
+<option>Kittanning, PA</option>
+<option>Klamath Falls, OR</option>
+<option>Knife River, MN</option>
+<option>Knoxville, IA</option>
+<option>Knoxville, TN</option>
+<option>Knoxville (west of; on Hwy. 150), IL</option>
+<option>Knutsford (UK/England)</option>
+<option>Kodak, TN</option>
+<option>Koh Samui (Thailand), FL</option>
+<option>Kokomo, IN</option>
+<option>Kota Kinabalu (Malaysia)</option>
+<option>Krasdnoyarsk (Russia)</option>
+<option>Krasnoyarsk (Russia)</option>
+<option>Kresgeville, PA</option>
+<option>Kuala Lumpur (Malaysia)</option>
+<option>Kurseong (India)</option>
+<option>Lacey, WA</option>
+<option>LaConner/Conway (between), WA</option>
+<option>La Conner, WA</option>
+<option>La Crosse, WI</option>
+<option>Ladysmith, WI</option>
+<option>La Farge, WI</option>
+<option>Lafayette, CA</option>
+<option>Lafayette/Walnut Creek, CA</option>
+<option>Laguna Beach, CA</option>
+<option>La Habra, CA</option>
+<option>La Jolla, CA</option>
+<option>Lake Charles, LA</option>
+<option>Lake City, WA</option>
+<option>Lake Havasu, AZ</option>
+<option>Lake Havasu City, AZ</option>
+<option>Lake Hopatcong, NJ</option>
+<option>Lake Jackson, TX</option>
+<option>Lake McClure, CA</option>
+<option>Lake Nacemiento, CA</option>
+<option>Lake Norman, NC</option>
+<option>Lake Oswego, OR</option>
+<option>Lake Providence, LA</option>
+<option>Lake Stevens, WA</option>
+<option>Lake Tahuyeh, WA</option>
+<option>Lake Toxaway, NC</option>
+<option>Lake Villa, IL</option>
+<option>Lake Wales (East of), FL</option>
+<option>Lake Wales, FL</option>
+<option>Lakewood, CO</option>
+<option>Lakewood, WA</option>
+<option>Lamar ((LAA), (NE of, FL310, 10 deg. above hor.), CO</option>
+<option>La Mesa, CA</option>
+<option>Lancashire (UK/England)</option>
+<option>Lancaster, CA</option>
+<option>Lancaster, MO</option>
+<option>Lancaster, SC</option>
+<option>Lancaster, WA</option>
+<option>Landover, MD</option>
+<option>Langley, WA</option>
+<option>Lanley (Canada), BC</option>
+<option>Lansing, MI</option>
+<option>La Plata, MD</option>
+<option>Laporte, WA</option>
+<option>La Quinta, CA</option>
+<option>Laramie (25 miles north of), WY</option>
+<option>Larose, LA</option>
+<option>Las Cruces, NM</option>
+<option>Las Vegas (approx 200 mi north of), NV</option>
+<option>Las Vegas (north of), NV</option>
+<option>Las Vegas, NV</option>
+<option>Latour, MO</option>
+<option>Latrobe, PA</option>
+<option>Launceston (Australia)</option>
+<option>Laurel, MD</option>
+<option>Lawton (vicinity), MI</option>
+<option>Laytonsville, MD</option>
+<option>Leadville, CO</option>
+<option>Leavenworth, KS</option>
+<option>Lebanon, OR</option>
+<option>Lebanon, TN</option>
+<option>Ledegem (Belgium)</option>
+<option>Lee&apos;s Summit, MO</option>
+<option>Leeds (UK/England), RI</option>
+<option>Lee, MA</option>
+<option>Leesburg, VA</option>
+<option>Leesport, PA</option>
+<option>Lehigh Acres, FL</option>
+<option>Leicester (UK/England)</option>
+<option>Leigh (UK/England)</option>
+<option>Lemore, CA</option>
+<option>Lethbridge (Alberta) (Canada), AB</option>
+<option>Lewes, DE</option>
+<option>Lewiston, ME</option>
+<option>Lewiston, MT</option>
+<option>Lexington, KY</option>
+<option>Liberal, KS</option>
+<option>Lincoln, NE</option>
+<option>Lisbon, ME</option>
+<option>Litchfield, IL</option>
+<option>Lititz, PA</option>
+<option>Little River, KS</option>
+<option>Little Rock, AR</option>
+<option>Littleton, CO</option>
+<option>Liverpool (UK/England)</option>
+<option>Lockwood, NV</option>
+<option>Lombard, IL</option>
+<option>London, KY</option>
+<option>London (NE) (UK/England)</option>
+<option>London (UK/England)</option>
+<option>Long Beach, CA</option>
+<option>Longmont, CO</option>
+<option>Longview, WA</option>
+<option>Lonsdale, MN</option>
+<option>Los Alamos (Near), NM</option>
+<option>Los Alamos, NM</option>
+<option>Los Angeles, CA</option>
+<option>Los Angeles County, CA</option>
+<option>Los Angeles (West Hollywood), CA</option>
+<option>Los Gatos, CA</option>
+<option>Los Lunas, NM</option>
+<option>Lost Lake, OR</option>
+<option>Louisville, KY</option>
+<option>Lovewell State Park (Jewell Co.), KS</option>
+<option>Lowell, IN</option>
+<option>Lower Nazareth, PA</option>
+<option>Luck, WI</option>
+<option>Ludlow, CA</option>
+<option>Lulworth, Dorsetshire (near) (UK/England)</option>
+<option>Lumberton, TX</option>
+<option>Lynnwood, WA</option>
+<option>Macon, GA</option>
+<option>Macuto (Venezuela)</option>
+<option>Madison, CT</option>
+<option>Madison, TN</option>
+<option>Madison, WI</option>
+<option>Makapiu Point, HI</option>
+<option>Mallakaster (Albania)</option>
+<option>Malmstrom AFB, MT</option>
+<option>Manchester</option>
+<option>Manchester, ME</option>
+<option>Mansfield, LA</option>
+<option>Mansfield, TX</option>
+<option>Manson, WA</option>
+<option>Maple Valley, WA</option>
+<option>Marblemount, WA</option>
+<option>Marina del Rey, CA</option>
+<option>Marion, NY</option>
+<option>Marion, SD</option>
+<option>Marlboro, NJ</option>
+<option>Marmaris (Turkey)</option>
+<option>Marquette, MI</option>
+<option>Martha&apos;s Vinyard, MA</option>
+<option>Martinez, CA</option>
+<option>Martins Ferry, OH</option>
+<option>Maryland Hts., MO</option>
+<option>Marysville (Plumas Arboga Road), CA</option>
+<option>Marysville, WA</option>
+<option>Mascoutah, IL</option>
+<option>Mason City, IA</option>
+<option>Mason, MI</option>
+<option>Mass City, MI</option>
+<option>Massillon, OH</option>
+<option>Matteson, IL</option>
+<option>Maury Island, WA</option>
+<option>Maybrook, NY</option>
+<option>Mazarron</option>
+<option>Mazarron (Spain)</option>
+<option>Mazatlan (Mexico)</option>
+<option>Mccormick, SC</option>
+<option>McIntosh, NM</option>
+<option>McKenzie, ND</option>
+<option>McKenzie, TN</option>
+<option>McKinleyville, CA</option>
+<option>McMinnville, TN</option>
+<option>Meadville, PA</option>
+<option>Medford and Murphy, OR</option>
+<option>Medford, MA</option>
+<option>Medford, NY</option>
+<option>Medford, OR</option>
+<option>Medical Lake, WA</option>
+<option>Memphis, TN</option>
+<option>Merced, CA</option>
+<option>Mercer Island, WA</option>
+<option>Mercersburg, PA</option>
+<option>Mergas, GA</option>
+<option>Meridian, MS</option>
+<option>Merlin, OR</option>
+<option>Mesa, AZ</option>
+<option>Meshkin Shahr (and several cities) (Iran)</option>
+<option>Mesquite, NV</option>
+<option>Mexico</option>
+<option>Mexico City (Mexico)</option>
+<option>Miami, Fl</option>
+<option>Miami, FL</option>
+<option>Middlesex, NY</option>
+<option>Middletown, CT</option>
+<option>Middletown, NJ</option>
+<option>Middletown, NY</option>
+<option>Middletown, PA</option>
+<option>Middleville, MI</option>
+<option>Midland, TX</option>
+<option>Midlothian, IL</option>
+<option>Midvale, UT</option>
+<option>Midway, GA</option>
+<option>Mile 69, WY</option>
+<option>Mill Creek, WA</option>
+<option>Millington, MI</option>
+<option>Millis, MA</option>
+<option>Millstadt, IL</option>
+<option>Milpitas, CA</option>
+<option>Milwaukee, WI</option>
+<option>Milwaukie, OR</option>
+<option>Minneapolis, MN</option>
+<option>Minneapolis/St. Paul, MN</option>
+<option>Mission Viejo, CA</option>
+<option>Mississaugua (Canada), ON</option>
+<option>Missoula, MT</option>
+<option>Missouri (rural; location unspecified), MO</option>
+<option>Mitchell, OR</option>
+<option>MM 99 mile Exit/I-5, WA</option>
+<option>Mobile, AL</option>
+<option>Modesto, CA</option>
+<option>Mogote, CO</option>
+<option>Mojave, CA</option>
+<option>Molalla, OR</option>
+<option>Moline, IL</option>
+<option>Monahans, TX</option>
+<option>Monitor, WA</option>
+<option>Monroe (Fairfield County), CT</option>
+<option>Monroe, WA</option>
+<option>Monrovia, VA</option>
+<option>Monterey, CA</option>
+<option>Monterrey (Mexico) (outside city, on large highway)</option>
+<option>Monticello, NY</option>
+<option>Montlu&ccedil;on (France)</option>
+<option>Montreal (Canada), PQ</option>
+<option>Montreal Lasalle (Canada), QC</option>
+<option>Moorehead, MN</option>
+<option>Moosehead Lake, ME</option>
+<option>Morehead, KY</option>
+<option>Moriches Bay (Long Island/Atlantic Ocean), NY</option>
+<option>Moriches Bay (Long Island), NY</option>
+<option>Morris, MI</option>
+<option>Morris Plains, NJ</option>
+<option>Morton, WA</option>
+<option>Moses Lake, WA</option>
+<option>Mosj&oslash;en (Norway), .</option>
+<option>Mossyrock, WA</option>
+<option>Moultonborough, NH</option>
+<option>Moultrie, GA</option>
+<option>Mountain City, TN</option>
+<option>Mountain Home, AR</option>
+<option>Mountain Home (observatory), ID</option>
+<option>Mountain Village, AK</option>
+<option>Mountlake Terrace (Seattle), WA</option>
+<option>Mount Shasta, CA</option>
+<option>Mount Shasta (time lapse camera), CA</option>
+<option>Mount Vernon, MO</option>
+<option>Movie (&quot;Arlington Road&quot;)</option>
+<option>MS (Brazil)</option>
+<option>Mt. Carmel campgrounds, SC</option>
+<option>Mt. City, TN</option>
+<option>Mt. Dora, NM</option>
+<option>Mt. Etna volcano (Italy)</option>
+<option>Mt. Jackson, VA</option>
+<option>Mt. Juliet, TN</option>
+<option>Mt. Ranch, CA</option>
+<option>Mt. Vernon, WA</option>
+<option>Mukilteo, WA</option>
+<option>Mumbai (India)</option>
+<option>Mundelein, IL</option>
+<option>Murphy, NC</option>
+<option>Muscatine, IA</option>
+<option>Muskegon, MI</option>
+<option>Mussell County, MT</option>
+<option>Myrtle Beach, SC</option>
+<option>Napa, CA</option>
+<option>Naperville, IL</option>
+<option>Naples, FL</option>
+<option>Nashville, TN</option>
+<option>National City, CA</option>
+<option>Nausau (Bahamas)</option>
+<option>Neah Bay, WA</option>
+<option>Near Seaforth (Canada), ON</option>
+<option>Nebraska (rural), NE</option>
+<option>Nevada, NV</option>
+<option>New Albany, PA</option>
+<option>Newberry, OH</option>
+<option>Newburg/Shippensburg, PA</option>
+<option>New Canaan, CT</option>
+<option>Newcastle, OK</option>
+<option>Newcastle-upon-Tyne (UK/England)</option>
+<option>Newcastle, WA</option>
+<option>Newell area, SD</option>
+<option>New Hampshire??, NH</option>
+<option>New Hampshire, OH</option>
+<option>New Haven, CT</option>
+<option>Newland (near), NC</option>
+<option>New London, CT</option>
+<option>New Mexico (southeast), NM</option>
+<option>Newnan, GA</option>
+<option>New Orleans, LA</option>
+<option>Newport (??), CA</option>
+<option>Newport, OR</option>
+<option>New Port Richey, FL</option>
+<option>New Providence, NJ</option>
+<option>New Smyrna Beach, FL</option>
+<option>Newton, MA</option>
+<option>Newtown, CT</option>
+<option>New York City (Bronx)</option>
+<option>New York City (Bronx), NY</option>
+<option>New York City (Brooklyn), NY</option>
+<option>New York City/Brooklyn, NY</option>
+<option>New York City (Forest Hills), NY</option>
+<option>New York City (Manhattan), NY</option>
+<option>New York City, NY</option>
+<option>New York City (Staten Island), NY</option>
+<option>New York/Queens, NY</option>
+<option>Neyland (UK/Wales)</option>
+<option>Nicolosi, Sicily (Italy; Mt. Etna), TN</option>
+<option>Nikishi, AK</option>
+<option>Nine Mile Falls, WA</option>
+<option>Nine Palms, CA</option>
+<option>Nipomo, CA</option>
+<option>Nisqually Delta, WA</option>
+<option>N. Judson, IN</option>
+<option>N. Kingston, RI</option>
+<option>Norfolk, VA</option>
+<option>Normandy Beach, NJ</option>
+<option>North Bend, WA</option>
+<option>North Bergen, NJ</option>
+<option>Northbrook, IL</option>
+<option>North Dade, FL</option>
+<option>Northeast Cape AFS, AK</option>
+<option>North Gower (Canada), ON</option>
+<option>North Hampton, NH</option>
+<option>North Haven, CT</option>
+<option>North Hills, CA</option>
+<option>North Hollywood, CA</option>
+<option>North Judson, IN</option>
+<option>Northland/Moerewa Bay (New Zealand)</option>
+<option>North Las Vegas, NV</option>
+<option>North Manitou Island Lake, MI</option>
+<option>North Port, FL</option>
+<option>North Port, MI</option>
+<option>Northport, NY</option>
+<option>North Riverside, IL</option>
+<option>North South Padre Island, TX</option>
+<option>Northumberland, PA</option>
+<option>Norwalk, CA</option>
+<option>Novato, CA</option>
+<option>N. Providence, RI</option>
+<option>N. Seattle, WA</option>
+<option>Nurenburg (Germany)</option>
+<option>Oakland, CA</option>
+<option>Oakley, CA</option>
+<option>Ocala, FL</option>
+<option>Ocalla, FL</option>
+<option>Ocean Shores, WA</option>
+<option>Oceanside, NY</option>
+<option>Odessa, NY</option>
+<option>Odessa, TX</option>
+<option>Ogden, UT</option>
+<option>Oglethorpe, GA</option>
+<option>Okanogan, WA</option>
+<option>Okeechobee, FL</option>
+<option>Okinawa (Japan)</option>
+<option>Oklahoma City, OK</option>
+<option>Olalla, WA</option>
+<option>Olathe, KS</option>
+<option>Old Bridge, NJ</option>
+<option>Oliphant, PA</option>
+<option>Olympia, WA</option>
+<option>Omaha, NE</option>
+<option>Omsk (Russia)</option>
+<option>Oneonta, NY</option>
+<option>Ontario (Canada)</option>
+<option>Ontario, NY</option>
+<option>Opa Locka, FL</option>
+<option>Opal, WY</option>
+<option>Orangeburg, NY</option>
+<option>Orange, VT</option>
+<option>Oregon City, OR</option>
+<option>Oregon, IL</option>
+<option>Orem, UT</option>
+<option>Orlando, FL</option>
+<option>Orlando (Lake Downey Park), FL</option>
+<option>Orland Park, IL</option>
+<option>Orondo, WA</option>
+<option>Oroville, CA</option>
+<option>Osage Beach, MO</option>
+<option>Osborne, KS</option>
+<option>Oscoda, MI</option>
+<option>Oshkosh, WI</option>
+<option>Ottawa (Canada), ON</option>
+<option>Owensboro, KY</option>
+<option>Owensville, MO</option>
+<option>Pacific Grove, CA</option>
+<option>Pacific Ocean</option>
+<option>Pacific, WA</option>
+<option>Paducah, KY</option>
+<option>Paintsville, KY</option>
+<option>Palma de Mallorca (Spain)</option>
+<option>Palmdale, CA</option>
+<option>Palm Desert, CA</option>
+<option>Palmetto, FL</option>
+<option>Palm Springs, CA</option>
+<option>Paoli, IN</option>
+<option>Papua New Guinea</option>
+<option>Paris, TX</option>
+<option>Parrish, FL</option>
+<option>Parshallville, MI</option>
+<option>Pasco, WA</option>
+<option>Patricia, TX</option>
+<option>Pawleys Island, NC</option>
+<option>PawPaw, MI</option>
+<option>Peabels, OH</option>
+<option>Pearl River, NY</option>
+<option>Peebles, OH</option>
+<option>Peerless Park, MO</option>
+<option>Pembrook Pines, FL</option>
+<option>Pensacola, FL</option>
+<option>Peoria, IL</option>
+<option>Perth (Australia)</option>
+<option>Perth (Western Australia)</option>
+<option>Peru</option>
+<option>Petoskey, MI</option>
+<option>Peyton, CO</option>
+<option>Philadelphia</option>
+<option>Phillipsburg, KS</option>
+<option>Phillipsburg, PA</option>
+<option>Phoenix (40 mi S. of), AZ</option>
+<option>Phoenix, AZ</option>
+<option>Phoenix City, AL</option>
+<option>Phoenix/Glendale, AZ</option>
+<option>Phoenix/San Diego (I-10), AZ</option>
+<option>Phuket (Thailand)</option>
+<option>Piedmont, CA</option>
+<option>Pine Bluff, AR</option>
+<option>Pine Level, AL</option>
+<option>Pink Hill, NC</option>
+<option>Pittsburg, CA</option>
+<option>Pittsburgh/New Castle, PA</option>
+<option>Pittsburgh, PA</option>
+<option>Pittsburg, KS</option>
+<option>Placerville, CA</option>
+<option>Plantation Key, FL</option>
+<option>Plant City, FL</option>
+<option>Pleasant Hill, CA</option>
+<option>Pleasant Hill, MO</option>
+<option>Pleasant Valley, CT</option>
+<option>Plymouth, MN</option>
+<option>Plymouth (UK/England)</option>
+<option>Pocatello, ID</option>
+<option>Point Arena, CA</option>
+<option>Polk County, WI</option>
+<option>Polson, MT</option>
+<option>Pompa Plains (Argentina)</option>
+<option>Ponca City (south of), OK</option>
+<option>Poplarville, MS</option>
+<option>Port Angeles, WA</option>
+<option>Port Charlotte, FL</option>
+<option>Port Hadlock, WA</option>
+<option>Portland, ME</option>
+<option>Portland, OR</option>
+<option>Port Orchard, WA</option>
+<option>Port St John, FL</option>
+<option>Portugal</option>
+<option>Potter Valley, CA</option>
+<option>Pottstown, PA</option>
+<option>Poulsbo, WA</option>
+<option>Poway, CA</option>
+<option>Powell, WY</option>
+<option>Prescott, AZ</option>
+<option>Prescott/Prescott Valley, AZ</option>
+<option>Prescott Valley, AZ</option>
+<option>Preston, Lancashire (UK/England)</option>
+<option>Prince of Wales Island, AK</option>
+<option>Prince Rupert (Canada), BC</option>
+<option>Princeton, WI</option>
+<option>Prineville, OR</option>
+<option>Progreso (Mexico)</option>
+<option>Prospect, CT</option>
+<option>Providence, CT</option>
+<option>Provo, UT</option>
+<option>Pueblo, CO</option>
+<option>Puerto de Mazarron (Spain)</option>
+<option>Puerto Rico, PR</option>
+<option>Puerto Rico (Puerto Rico), PR</option>
+<option>Putman, CT</option>
+<option>Puyallup, WA</option>
+<option>Quebec (Canada)</option>
+<option>Quilcene, WA</option>
+<option>Racine, WI</option>
+<option>Rainsville, AL</option>
+<option>Randolph, NJ</option>
+<option>Rapid City area, SD</option>
+<option>Raton, NM</option>
+<option>Rawlins, WY</option>
+<option>Raymond, NH</option>
+<option>Raymond, WA</option>
+<option>Raynham (northeast of)</option>
+<option>Reading, PA</option>
+<option>Redding, CA</option>
+<option>Redmond, WA</option>
+<option>Redondo Beach, CA</option>
+<option>Red Rock Canyon, NV</option>
+<option>Redwood, CA</option>
+<option>Reedborough, VT</option>
+<option>Reisterstown, MD</option>
+<option>Reno, NV</option>
+<option>Renton, WA</option>
+<option>(Republic of Ireland)</option>
+<option>Reykjavik (Iceland)</option>
+<option>Richardson, TX</option>
+<option>Richland, WA</option>
+<option>Richmond, VA</option>
+<option>Riely, MI</option>
+<option>Riverside, CA</option>
+<option>Riverside, NJ</option>
+<option>Riverview, FL</option>
+<option>Roanoke, VA</option>
+<option>Rochester, MN</option>
+<option>Rochester, NY</option>
+<option>Rockford, IL</option>
+<option>Rockford, WA</option>
+<option>Rockland, CA</option>
+<option>Rockport, IN</option>
+<option>Rockville, MD</option>
+<option>Rocky Mount, NC</option>
+<option>Rocky Point, WA</option>
+<option>Rolla, MO</option>
+<option>Romania (in-flight intercept)</option>
+<option>Rome (Italy)</option>
+<option>Romulus, MI</option>
+<option>Ronan, MT</option>
+<option>Roscoe, MT</option>
+<option>Roslyn, WA</option>
+<option>Roswell, GA</option>
+<option>Roswell, NM</option>
+<option>Rotherham (UK/England)</option>
+<option>Round Lake, IL</option>
+<option>Roy, WA</option>
+<option>Rte. 40, CA</option>
+<option>Rushville, IL</option>
+<option>Russellville, AR</option>
+<option>Russellville, MO</option>
+<option>Russian Federation</option>
+<option>Sabattus, ME</option>
+<option>Sacramento, CA</option>
+<option>Sacramento (east of), CA</option>
+<option>Saddle Mountains, WA</option>
+<option>Saginaw, MI</option>
+<option>Saint Clair Shores, MI</option>
+<option>Salem, MA</option>
+<option>Salem, OR</option>
+<option>Salida, CO</option>
+<option>Salinas, CA</option>
+<option>Salisbury, MD</option>
+<option>Salt Lake City, UT</option>
+<option>San Angelo, TX</option>
+<option>San Antonio, TX</option>
+<option>San Bernardino, CA</option>
+<option>San Bruno, CA</option>
+<option>Sand Dune Recreational Area (west of, on I-8), CA</option>
+<option>San Diego area (on highway; beside Camp Pendleton), CA</option>
+<option>San Diego, CA</option>
+<option>San Diego, TX</option>
+<option>Sandpoint, ID</option>
+<option>Sandy, OR</option>
+<option>San Felipe, Baja de California (Mexico)</option>
+<option>San Fernando, CA</option>
+<option>San Francisco, CA</option>
+<option>San Francisco, CT</option>
+<option>San Jose, CA</option>
+<option>San Jose del Cabo (Baja California) (Mexico)</option>
+<option>San Lorenzo (Puerto Rico), PR</option>
+<option>Santa Ana, CA</option>
+<option>Santa Barbara, CA</option>
+<option>Santa Clara, CA</option>
+<option>Santa Cruz, CA</option>
+<option>Santa Fe, NM</option>
+<option>Santa Maria, CA</option>
+<option>Santa Monica Mountains, CA</option>
+<option>Santa Paula, CA</option>
+<option>Santa Rosa, CA</option>
+<option>Sarasota, FL</option>
+<option>Sayre, PA</option>
+<option>Sayward (Canada), BC</option>
+<option>Scappoose, OR</option>
+<option>Scarsdale, NY</option>
+<option>Schnecksville, PA</option>
+<option>Scofield Barracks, HI</option>
+<option>Scott AFB/Centralia (between), IL</option>
+<option>Scottsdale, AZ</option>
+<option>Scottsdale, WA</option>
+<option>Seabeck, WA</option>
+<option>Sea Ranch, CA</option>
+<option>Seatac, WA</option>
+<option>Seattle (corner of Mercer and Queen Anne Avenues), WA</option>
+<option>Seattle (Juanita area), WA</option>
+<option>Seattle, WA</option>
+<option>Sebastopal, CA</option>
+<option>Sebring, FL</option>
+<option>Secane, PA</option>
+<option>Sector 18, NY</option>
+<option>Sedalia, MO</option>
+<option>Sedgefield (UK/England)</option>
+<option>Sedgewick, ME</option>
+<option>Sedona, AZ</option>
+<option>Sedro Woolley, WA</option>
+<option>See Report..., CO</option>
+<option>Selah, WA</option>
+<option>Seligman, AZ</option>
+<option>Seminole, FL</option>
+<option>Sequim, WA</option>
+<option>Sequoia National Park, CA</option>
+<option>Seymour-Johnson AFB, NC</option>
+<option>Seymour, TN</option>
+<option>S. Greensburg, PA</option>
+<option>Shady Grove, OR</option>
+<option>Shakopee, MN</option>
+<option>Shapleigh, ME</option>
+<option>Sharon, MA</option>
+<option>Shawano, WI</option>
+<option>Shawnee, OK</option>
+<option>Shelbyville, KY</option>
+<option>Shelton, WA</option>
+<option>Sheridan, MT</option>
+<option>Sherston, Malmesbury (UK/England)</option>
+<option>Show Low, AZ</option>
+<option>Shrewsbury Township, PA</option>
+<option>Sibley County, MN</option>
+<option>Sidcup, Kent (UK/England)</option>
+<option>Sidney (Canada), BC</option>
+<option>Sidney, TX</option>
+<option>Sierra Vista, AZ</option>
+<option>Siletz, OR</option>
+<option>Silver Beach, NY</option>
+<option>Silver City, NM</option>
+<option>Silverdale, WA</option>
+<option>Simsbury, CT</option>
+<option>Sioux Falls, SD</option>
+<option>Skaneateles, NY</option>
+<option>Skudai (Malaysia)</option>
+<option>Slippery Rock, PA</option>
+<option>Smithport, PA</option>
+<option>Smith River, CA</option>
+<option>Smithville Lake, MO</option>
+<option>Smithville (south east of), TX</option>
+<option>Snake River, ID</option>
+<option>Snelling, CA</option>
+<option>Snohomish, WA</option>
+<option>Snoqualmie Pass, WA</option>
+<option>Snoqualmie, WA</option>
+<option>Snowflake, AZ</option>
+<option>So. Cal., CA</option>
+<option>Solano County, CA</option>
+<option>Soldiers Grove (Rising Sun), WI</option>
+<option>Solon, IA</option>
+<option>Solvang, CA</option>
+<option>Sonora, TX</option>
+<option>South Amherst, OH</option>
+<option>Southampton (Canada), ON</option>
+<option>South Bend, IN</option>
+<option>South Charleston (near), WV</option>
+<option>Southeastern, NH</option>
+<option>South Park, WA</option>
+<option>Southport (UK/England)</option>
+<option>Southwest U. S.</option>
+<option>Spanaway, WA</option>
+<option>Spokane (35 miles north of, Hwy. 395), WA</option>
+<option>Spokane, WA</option>
+<option>Sprague River, OR</option>
+<option>Springfield, CO</option>
+<option>Springfield, IL</option>
+<option>Springfield, MO</option>
+<option>Stanford, CA</option>
+<option>Stanwood, WA</option>
+<option>Starkey, OR</option>
+<option>Startup, WA</option>
+<option>Statham, GA</option>
+<option>St. Augustine, FL</option>
+<option>St. Charles, KY</option>
+<option>St. Cloud, MN</option>
+<option>Stevens Pass, WA</option>
+<option>St. George, UT</option>
+<option>St. Ignace, MI</option>
+<option>Stirling (Canada), AB</option>
+<option>Stirlingshire (UK/Scotland)</option>
+<option>St. Johnsbury, VT</option>
+<option>St. Johns, MI</option>
+<option>St. Louis area, MO</option>
+<option>St. Louis, MO</option>
+<option>St. Lucia</option>
+<option>St. Maries, ID</option>
+<option>Stockbridge, GA</option>
+<option>Stockton, CA</option>
+<option>Stockton on Tees (UK/England)</option>
+<option>Stoke-on-Trent (UK/England)</option>
+<option>Stonewall, LA</option>
+<option>St. Paul, MN</option>
+<option>St. Petersburg, FL</option>
+<option>St. Petersburg (Russia)</option>
+<option>Stratford (Canada), ON</option>
+<option>St. Thomas (U. S. Virgin Islands)</option>
+<option>Studio City (Mojave Desert), CA</option>
+<option>Success, NH</option>
+<option>Suffolk, VA</option>
+<option>Sullivan, MO</option>
+<option>Sumner, IL</option>
+<option>Sumner, WA</option>
+<option>Sumter, SC</option>
+<option>Sunderland (UK/England)</option>
+<option>Sunnyside, WA</option>
+<option>Sunnyvale, CA</option>
+<option>Sun Prairie, WI</option>
+<option>Superior, AZ</option>
+<option>Surgoinsville, TN</option>
+<option>Surprise, AZ</option>
+<option>Surry County Nuclear Facility, VA</option>
+<option>Surry County, VA</option>
+<option>Susanville, CA</option>
+<option>Swannanoa, NC</option>
+<option>Sweden</option>
+<option>Sweet Home, OR</option>
+<option>Sydney (NSW, Australia)</option>
+<option>Sykia.Halkidiki (Greece)</option>
+<option>Tacoma, WA</option>
+<option>Tajunga, CA</option>
+<option>Talbott, TN</option>
+<option>Tallahassee, FL</option>
+<option>Tallassee, TN</option>
+<option>Tampa, FL</option>
+<option>Tantoora Beach (Israel)</option>
+<option>Taos, NM</option>
+<option>Tauranga (New Zealand)</option>
+<option>Tehran (Iran)</option>
+<option>Tempe, AZ</option>
+<option>Terrace (Canada), BC</option>
+<option>Tewksbury, MA</option>
+<option>Thomasville (USAF long range radar facility), AL</option>
+<option>Thompson (Canada), MB</option>
+<option>Thousand Oaks, CA</option>
+<option>Thrall, LA</option>
+<option>Three Rivers (Canada) ??</option>
+<option>Tidewater, OR</option>
+<option>Tigard, OR</option>
+<option>Tillamook, OR</option>
+<option>Tinley Park, IL</option>
+<option>Toa Baja (Puerto Rico)</option>
+<option>Toledo, OH</option>
+<option>Tomahawk, WI</option>
+<option>Tonapah, NV</option>
+<option>Tonasket, WA</option>
+<option>Topeka, KS</option>
+<option>Topton, MS</option>
+<option>Toronto (Canada), ON</option>
+<option>Towson, MD</option>
+<option>Trail (Canada), BC</option>
+<option>Traverse City, MI</option>
+<option>Travis AFB, CA</option>
+<option>Trenton, IA</option>
+<option>Trenton, NJ</option>
+<option>Tri-Cities, WA</option>
+<option>Trinidad</option>
+<option>Troutdale (near), WA</option>
+<option>Trout Lake, WA</option>
+<option>Troy, ME</option>
+<option>Troy, MT</option>
+<option>Troy, OH</option>
+<option>Truckee, CA</option>
+<option>Truman Lake area, MO</option>
+<option>Tucson, AZ</option>
+<option>Tucson (Catalina Mountains), AZ</option>
+<option>Tucumcari, NM</option>
+<option>Tulare, CA</option>
+<option>Tulsa, OK</option>
+<option>Tumwater, WA</option>
+<option>Tustin, WI</option>
+<option>Tweeds Head (Australia)</option>
+<option>Twenty Nine Palms, CA</option>
+<option>UK/England</option>
+<option>UK/Scotland</option>
+<option>Umatilla, OR</option>
+<option>Union, NJ</option>
+<option>Unknown (Australia)</option>
+<option>Unspecified location</option>
+<option>Upland, CA</option>
+<option>Upper Makefield, PA</option>
+<option>Uppsala (Sweden)</option>
+<option>Usak (Turkey)</option>
+<option>USS Enterprise (at sea)</option>
+<option>USS Providence/U.S. Navy vessel (CLG 6)</option>
+<option>Vacaville, CA</option>
+<option>Vallejo, CA</option>
+<option>Valley City, OH</option>
+<option>Van Buren, AR</option>
+<option>Vancouver (Canada), BC</option>
+<option>Vancouver Island (rural) (Canada), BC</option>
+<option>Vancouver (north of), WA</option>
+<option>Vancouver, WA</option>
+<option>Vandenburg AFB, CA</option>
+<option>Vanderbilt, MI</option>
+<option>Vantage (Eof, across Columbia River), WA</option>
+<option>Vantage, WA</option>
+<option>Vashon Island, WA</option>
+<option>Veagus (Puerto Rico)</option>
+<option>Venice, Fl</option>
+<option>Venice, FL</option>
+<option>Ventura, CA</option>
+<option>Vero Beach, FL</option>
+<option>Versailles, MO</option>
+<option>Vestaburg, MI</option>
+<option>Victoria (Canada), BC</option>
+<option>Victorville, CA</option>
+<option>Vienna, VA</option>
+<option>Vieques (Puerto Rico)</option>
+<option>Viet Nam</option>
+<option>Villa Rica, GA</option>
+<option>Vincennes, IN</option>
+<option>Vinton, LA</option>
+<option>Virginia Beach, VA</option>
+<option>Virginia, VA</option>
+<option>Visalia, CA</option>
+<option>Vista, CA</option>
+<option>Vit&oacute;ria (capital city of Esp&iacute;rito Santo state) (Brazil)</option>
+<option>Volinda, CA</option>
+<option>Walker Valley(Pine Bush), NY</option>
+<option>Walla Walla Airport, WA</option>
+<option>Walnut Creek, CA</option>
+<option>Wanham (Canada), AB</option>
+<option>Wappingers Falls, NY</option>
+<option>Warm Beach, WA</option>
+<option>Warren, IL</option>
+<option>Warren, MI</option>
+<option>Warwick, NY</option>
+<option>Warwick, RI</option>
+<option>Washington County, OR</option>
+<option>Washington D.C.</option>
+<option>Washington, D.C., DC</option>
+<option>Washington State, WA</option>
+<option>Washington Township, NJ</option>
+<option>Watauga, TX</option>
+<option>Waterford (Republic of Ireland)</option>
+<option>Waterloo (south of), IA</option>
+<option>Watkins Glen, NY</option>
+<option>Watsonville, CA</option>
+<option>Wattweiler, Zweibruecken (Germany)</option>
+<option>Waukesha, WI</option>
+<option>Wauwatosa, WI</option>
+<option>Waverly, TN</option>
+<option>Waxhaw, NC</option>
+<option>W. Chicago, IL</option>
+<option>Wenatchee, WA</option>
+<option>West Bend, WI</option>
+<option>West Covina, CA</option>
+<option>West Elkton, OH</option>
+<option>Westerbork (Netherlands)</option>
+<option>West Hartford, CT</option>
+<option>Westlock (Canada), AB</option>
+<option>West Memphis, TN</option>
+<option>Weston, CT</option>
+<option>West Orange, NJ</option>
+<option>Westover, PA</option>
+<option>West Palm Beach, FL</option>
+<option>West Roxbury, MA</option>
+<option>West Seattle, WA</option>
+<option>West Texas, TX</option>
+<option>West Union, OH</option>
+<option>West Valley City, UT</option>
+<option>Whidbey Island, WA</option>
+<option>Whitefish, MT</option>
+<option>Whitehaven (UK/England)</option>
+<option>Whiteman AFB, MO</option>
+<option>Whiteswan Lake, British Columbia</option>
+<option>Whitwell/Worksop (UK/England)</option>
+<option>Wichita, KS</option>
+<option>Wickenburg, AZ</option>
+<option>Wigan (UK/England)</option>
+<option>Wijk bij Duurstede (Netherlands)</option>
+<option>Wilcox, AZ</option>
+<option>Wilkes-Barre, PA</option>
+<option>Wilkesboro, NC</option>
+<option>Williamsburg, VA</option>
+<option>Williamsport/Wilkes-Barre, PA</option>
+<option>Williston, ND</option>
+<option>Williston, VT</option>
+<option>Willow River, MN</option>
+<option>Willow Springs, MO</option>
+<option>Wilmington, NC</option>
+<option>Windsor (Canada), ON</option>
+<option>Wingville, OR</option>
+<option>Winnemucca, NV</option>
+<option>Winnipeg (Canada), MB</option>
+<option>Winsted, CT</option>
+<option>Winter Haven, FL</option>
+<option>Winter Springs to Sanford, FL</option>
+<option>Wishkah River, WA</option>
+<option>W. New Brunswick, NJ</option>
+<option>Woburn, MA</option>
+<option>Wolf Lake, MI</option>
+<option>Woodinville, WA</option>
+<option>Woodland, CA</option>
+<option>Woodland, ME</option>
+<option>Woodland, WA</option>
+<option>Woodmere (Canada), BC</option>
+<option>Woodside, CA</option>
+<option>Woodstock, CT</option>
+<option>Woonsocket, RI</option>
+<option>Worcestershire (UK/England)</option>
+<option>W. Salem, OR</option>
+<option>Wyckoff, NJ</option>
+<option>Wyoming, MN</option>
+<option>Wyoming Valley, PA</option>
+<option>Yakima, WA</option>
+<option>Yankeetown, IN</option>
+<option>Yarmouth, ME</option>
+<option>Yazoo City, MS</option>
+<option>Yelm, WA</option>
+<option>Yi-Ning City, (XiJiang) (China)</option>
+<option>York, ME</option>
+<option>Yosemite National Park, CA</option>
+<option>Youngstown, OH</option>
+<option>Youngstown, PA</option>
+<option>Ypsilanti, MI</option>
+<option>Ystradgynlais (UK/Wales)</option>
+<option>Yukon (Canada), YK</option>
+<option>Yuma, AZ</option>
+<option>Zagreb (Croatia)</option>
+<option>Zanesville, OH</option>
+<option>Zirconia, NC</option>

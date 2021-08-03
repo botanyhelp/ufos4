@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>UFO sightings application on FeathersJS, mongodb, Vue 3</title>
+    <meta name="description" content="UFO sightings application on FeathersJS, mongodb, Vue 3">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html, body {
+        font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+        font-weight: 400;
+        font-size: 16px;
+        color: #2c3e50;
+      }
+
+      .center-text {
+        text-align: center;
+      }
+
+      main {
+        margin-top: 100px;
+        padding: 20px;
+      }
+
+      img.logo {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        margin-bottom: 30px;
+      }
+
+      h2 {
+        font-size: 2em;
+        font-weight: 100;
+      }
+
+      footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 20px;
+      }
+
+      footer p {
+        font-weight: 300;
+        font-size: 1.0em;
+      }
+
+      a {
+        color: #3cf;
+        text-decoration: none;
+      }
+
+      a:hover,
+      a:focus {
+        color: #3cf;
+      }
+
+table { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+
+
+    </style>
+    <meta name="description2" content="TTT">
+<!-- vue2.6.5
+  <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+-->
+  <script src="https://unpkg.com/vue@3.0.11/dist/vue.global.js"></script>
+  </head>
+<body>
+    <div id="app">
+<h2>UFO Sightings</h2>
+
+<button class="button" @click="nextTen">Next 10</button>
+<button class="search" @click="showSearchForm">Search</button>
+<div class="search-form" v-show="showSearch">
+HELLO
+  <form class="search-form" @submit.prevent="onSubmit">
+    <h3>Year</h3>
+    <label for="sighted_at_year">Year:</label>
+    <input id="sighted_at_year" v-model="sighted_at_year">
+<br />
+  <label for="location_state">State:</label>
+  <select id="location_state" v-model.number="location_state">
+    <option>AK</option>
+    <option>AL</option>
+    <option>AR</option>
+    <option>AZ</option>
+    <option>CA</option>
+    <option>CO</option>
+    <option>CT</option>
+    <option>DC</option>
+    <option>DE</option>
+    <option>FL</option>
+    <option>GA</option>
+    <option>IA</option>
+    <option>ID</option>
+    <option>IL</option>
+    <option>IN</option>
+    <option>KS</option>
+    <option>KY</option>
+    <option>LA</option>
+    <option>MA</option>
+    <option>MD</option>
+    <option>ME</option>
+    <option>MI</option>
+    <option>MN</option>
+    <option>MO</option>
+    <option>MS</option>
+    <option>MT</option>
+    <option>NC</option>
+    <option>ND</option>
+    <option>NE</option>
+    <option>NH</option>
+    <option>NJ</option>
+    <option>NM</option>
+    <option>NT</option>
+    <option>NV</option>
+    <option>NY</option>
+    <option>OH</option>
+    <option>OK</option>
+    <option>OR</option>
+    <option>PA</option>
+    <option>PE</option>
+    <option>PR</option>
+    <option>RI</option>
+    <option>SC</option>
+    <option>SD</option>
+    <option>TN</option>
+    <option>TX</option>
+    <option>UT</option>
+    <option>VA</option>
+    <option>VI</option>
+    <option>VT</option>
+    <option>WA</option>
+    <option>WI</option>
+    <option>WV</option>
+    <option>WY</option>
+    <option>(Canada), AB</option>
+    <option>(Canada), BC</option>
+    <option>(Canada), MB</option>
+    <option>(Canada), NS</option>
+    <option>(Canada), ON</option>
+    <option>(Canada), QC</option>
+    <option>(Canada), SA</option>
+  </select>
+  <input class="button" type="submit" value="Submit">
+  </form>
+</div>
+<br />
+
+<table>
+        <thead>
+           <tr>
+                <th>UFO Information</th>
+                <th>Edit</th>
+           </tr>
+        </thead>
+        <tbody>
+<!--
+YES:
+<tr v-for="ufosighting in ufosightings" :key="ufosighting._id"><td>
+-->
+<tr v-for="ufosighting in ufosightings" :key="ufosighting._id"><td>
+    
+<strong>_id</strong> {{ ufosighting._id }}<br />
+<strong>sighted_at_year</strong> {{ ufosighting.sighted_at_year }}<br />
+<strong>sighted_at_month</strong> {{ ufosighting.sighted_at_month }}<br />
+<strong>sighted_at_day</strong> {{ ufosighting.sighted_at_day }}<br />
+<strong>reported_at</strong> {{ ufosighting.reported_at }}<br />
+<strong>location_city</strong> {{ ufosighting.location_city }}<br />
+<strong>location_state</strong> {{ ufosighting.location_state }}<br />
+<strong>shape</strong> {{ ufosighting.shape }}<br />
+<strong>duration</strong> {{ ufosighting.duration }}<br />
+<strong>description</strong> {{ ufosighting.description }}<br />
+</td>
+<td>&nbsp;
+</td>
+</tr>
+</table>
+<!-- 
+  <ol>
+    <li v-for="ufosighting in ufosightings">
+      {{ ufosighting }}
+    </li>
+  </ol>
+-->
+    </div>
+
+<!-- 
+    NO..feathersjs has some routing..so we put code in this page
+         Import App <script src="./main.js"></script>
+
+We get different records with URLs like these:
+http://li1077-179.members.linode.com:3030/ufosightings?$limit=2&$skip=44755
+-->
+    <script>
+
+const app = Vue.createApp({
+  data() {
+    return { 
+        currentId: 1,
+        showSearch: false,
+        ufosightings: []
+    }
+  },
+  created() {
+    fetch('http://li1077-179.members.linode.com:3030/ufosightings')
+    .then(response => response.json())
+    .then(json => {
+      this.ufosightings = json.data
+    })
+  },
+  methods: {
+    showSearchForm() {
+      this.showSearch = !this.showSearch;
+    },
+    onSubmit() {
+      alert(this.sighted_at_year+location_state)
+      fetch('http://li1077-179.members.linode.com:3030/ufosightings?sighted_at_year='+this.sighted_at_year)
+      .then(response => response.json())
+      .then(json => {
+        this.ufosightings = json.data
+      })
+    },
+    nextTen() {
+      this.currentId = this.currentId+10;
+      fetch('http://li1077-179.members.linode.com:3030/ufosightings?$limit=10&$skip='+this.currentId)
+      .then(response => response.json())
+      .then(json => {
+        this.ufosightings = json.data
+      })
+    }
+  }
+})
+      const mountedApp = app.mount('#app')
+    </script>
+  </body>
+</html>
+
+

@@ -1,0 +1,14 @@
+<form id="myForm">
+
+    <p>
+    <label for="gene_symbol">Gene Symbol</label>
+
+<input class="awesomplete" id="gene_symbol" list="genesymbollist" />
+<datalist id="genesymbollist">
+<option>ZZZ3</option>
+</datalist>
+    </p>
+    <p>
+    <input type="submit" value="submit">
+    </p>
+</form>

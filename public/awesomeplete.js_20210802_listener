@@ -1,0 +1,13 @@
+<script>
+    //Display records so far:
+    //listen for changes in our form fields
+    document.querySelector("#myForm").addEventListener("submit",
+     function(e) {
+        e.preventDefault();
+        //get all the fields
+        var genesymbol = document.querySelector("#gene_symbol").value;
+        alert(genesymbol);
+        console.dir(genesymbol);
+        init();
+    },false);
+</script>

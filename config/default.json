@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 250,
+    "max": 250
+  },
+  "mongodb": "mongodb://indy:indy@localhost:27017/ufos?authSource=admin"
+}
